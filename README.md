@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TheMightyPooper.
+- 👋 Hi, I’m Parth Kulkarni.
 - 👀 I’m interested in making games.
 - 🌱 I’m currently learning C, C++.
 
